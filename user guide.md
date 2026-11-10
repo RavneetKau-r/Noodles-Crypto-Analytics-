@@ -65,4 +65,4 @@ A: Data is refreshed daily. Historical data may also be revised.
 A: Yes, if you have Power BI Pro license. Contact IT for access. 
 **Q: Who do I contact for questions?**
  A: Email data-analytics@noodles.com or Slack #data-help 
-## Support For technical issues or questions: - Email: support@noodles.com - Slack: #data-help - Phone: ext. 1234
+## Support For technical issues or questions: - Email: ravn748@gmail.com - Slack: #data-help 
