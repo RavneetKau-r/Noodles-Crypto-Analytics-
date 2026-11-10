@@ -49,7 +49,7 @@ noodles-analytics/
 Dimensions: DimCurrency, DimDate, DimPlatform
 Facts: FactSocialEngagement
 
-Data dictionary (YOU CREATE in Task 9 §2):
+Data dictionary 
 docs/data-dictionary.xlsx
 
 ## Key Insights
@@ -68,16 +68,15 @@ docs/data-dictionary.xlsx
 
 ## Documentation  (files YOU CREATE — not pre-built reference links)
 
-- Technical Runbook  →   ("C:\Users\bohar\Downloads\task 9\technical runbook.md.pbix")  (Task 9 §3)
-- User Guide         →          ("C:\Users\bohar\Downloads\task 9\user-guide.md.pbix")     (Task 9 §4)
-- Architecture       →  "C:\Users\bohar\Downloads\task 9\architecture-diagram.png  (Task 9 §1)
-- Data Dictionary    → C:\Users\bohar\Downloads\task 9\Data Dictionary.xlsx       (Task 9 §2)
+- Technical Runbook  →"C:\Users\bohar\Downloads\task 9\technical runbook.md"   
+- User Guide         →          "C:\Users\bohar\Downloads\task 9\user guide.md"
+- Architecture       →  "C:\Users\bohar\Downloads\task 9\architecture-diagram.png  
+- Data Dictionary    → C:\Users\bohar\Downloads\task 9\Data Dictionary.xlsx       
 
 ## Demo
 
 Demo video URL: "C:\Users\bohar\Downloads\task 9\demo-video.mp4.mp4"
-Presentation (YOU CREATE in Task 9 §5): docs/demo-presentation.pptx
-
+Presentation:"C:\Users\bohar\Downloads\task 9\demo-presentation.pdf"
 ## Contact
 
 Your Name Ravneet Kaur
@@ -86,6 +85,6 @@ Optional — markdown link syntax for GitHub README only (after files exist in r
 
 [Architecture Diagram]("C:\Users\bohar\Downloads\task 9\architecture-diagram.png")
 [Data Dictionary]("C:\Users\bohar\Downloads\task 9\Data Dictionary.xlsx")
-[Technical Runbook]("C:\Users\bohar\Downloads\task 9\technical runbook.md.pbix")
-[User Guide]("C:\Users\bohar\Downloads\task 9\user-guide.md.pbix")
+[Technical Runbook]("C:\Users\bohar\Downloads\task 9\technical runbook.md")
+[User Guide]("C:\Users\bohar\Downloads\task 9\user-guide.md")
 [Presentation slides]("C:\Users\bohar\Downloads\task 9\demo-presentation.pdf")
