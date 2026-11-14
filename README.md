@@ -80,7 +80,7 @@ Data dictionary
 
 ## Documentation  
 
-- Technical Runbook  →"C:\Users\bohar\OneDrive\Documents\Noodle Analytics\docs\technical runbook.md"
+- Technical Runbook  →https://github.com/RavneetKau-r/Noodles-Crypto-Analytics-/blob/f279cab0f69e20a7d22299514e738d685a4f1be1/Noodle%20Analytics/docs/technical%20runbook.md
 - User Guide         →  "C:\Users\bohar\OneDrive\Documents\Noodle Analytics\docs\user guide.md"       
 - Architecture diagram      → "C:\Users\bohar\OneDrive\Documents\Noodle Analytics\docs\architecture-diagram.png"
 - Data Dictionary    → "C:\Users\bohar\OneDrive\Documents\Noodle Analytics\docs\Data Dictionary.pdf"
