@@ -8,6 +8,11 @@ Technologies:Python,MySQL and Power Bi,DAX
 
 Production-ready currency analytics platform processing 1M+ rows of
 market data daily using Python, MySQL, and Power BI.
+Executive Dashboard screenshot
+https://1drv.ms/i/c/ca96d0cd9d062930/IQBMM6bMGerYRa3HGBOwAIfCAb7zeG4pw8hkbs1GDvbXvqU?e=wxngYg
+https://1drv.ms/i/c/ca96d0cd9d062930/IQB9u58_fGNhQKIS2GQsQlkVAQF3fPWUigT0BX7Z2IA4yGI?e=Ps2235
+("C:\Users\bohar\OneDrive\Documents\Noodle Analytics\task 8 docs\Screenshot (39).png")
+
 
 Project Objectives:
 -Automate data extraction and transformation'
@@ -88,7 +93,7 @@ Demo video URL: https://youtu.be/9Vf6N2UH1UA
 
 
 #Github repository
-Repository:
+Repository:https://github.com/RavneetKau-r/Noodles-Crypto-Analytics-
 
 ## Contact
 
