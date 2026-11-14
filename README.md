@@ -85,7 +85,7 @@ Data dictionary
 - Architecture diagram      →https://lucid.app/lucidchart/e21087d9-b503-432d-803b-fd4165062fbb/edit?viewport_loc=-96%2C-145%2C976%2C507%2C0_0&invitationId=inv_0e0541d1-568a-4cd0-9880-eecfb8c6f7da
 - Data Dictionary    → https://1drv.ms/x/c/ca96d0cd9d062930/IQDTm3BcnPNUQonHhL5iUw1uAQFkYCY8DrJya322I4bjmZc?e=nDciYY
 - demo Presentation -->https://1drv.ms/p/c/ca96d0cd9d062930/IQBhRofICB2ERIV-d3fUb7WLARCAu4qNoemgkndYCm5FCdI?e=QIUz6g
-- final checklist--> "C:\Users\bohar\OneDrive\Documents\Noodle Analytics\docs\final checklist.md"   
+- final checklist--> https://github.com/RavneetKau-r/Noodles-Crypto-Analytics-/blob/7a87bda693ee4ed04ee1ba52446130d11f133b4a/Noodle%20Analytics/docs/final%20checklist.md  
 
 ## Demo
 
