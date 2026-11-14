@@ -27,6 +27,7 @@ Key Features:
 ## Architecture
 
 json Files → Python ETL → MySQL (noodles_dw) → Power BI Dashboards
+Architecture Diagram:"C:\Users\bohar\OneDrive\Documents\Noodle Analytics\docs\architecture-diagram.png"
 
 
 ## Technology Stack
@@ -41,13 +42,13 @@ json Files → Python ETL → MySQL (noodles_dw) → Power BI Dashboards
 noodles-analytics/
 ├── 05_data_warehouse_design.ipynb
 ├── 06_powerbi_prep.ipynb
-├── reports/          (Tasks 7–8 .pbix files)
-├── docs/             ← YOU CREATE in Task 9
-│   ├── architecture-diagram.png    ← §1
-│   ├── data-dictionary.xlsx        ← §2
-│   ├── technical-runbook.md        ← §3
-│   ├── user-guide.md               ← §4
-│   └── demo-presentation.pptx      ← §5
+├── reports/          
+├── docs/           
+│   ├── architecture-diagram.png  
+│   ├── data-dictionary.xlsx      
+│   ├── technical-runbook.md 
+│   ├── user-guide.md            
+│   └── demo-presentation.pptx   
 └── README.md
 
 ## Data Model
@@ -56,7 +57,7 @@ Dimensions: DimCurrency, DimDate, DimPlatform
 Facts: FactSocialEngagement
 
 Data dictionary 
-docs/data-dictionary.xlsx
+"C:\Users\bohar\OneDrive\Documents\Noodle Analytics\docs\Data Dictionary.pdf"
 
 ## Key Insights
 
@@ -74,12 +75,12 @@ docs/data-dictionary.xlsx
 
 ## Documentation  
 
-- Technical Runbook  →"C:\Users\bohar\Downloads\task 9\technical runbook.md"   
-- User Guide         →          "C:\Users\bohar\Downloads\task 9\user guide.md"
-- Architecture diagram      →  "C:\Users\bohar\Downloads\task 9\architecture-diagram.png  
-- Data Dictionary    → C:\Users\bohar\Downloads\task 9\Data Dictionary.xlsx
-- demo Presentation -->
-- final checklist-->     
+- Technical Runbook  →"C:\Users\bohar\OneDrive\Documents\Noodle Analytics\docs\technical runbook.md"
+- User Guide         →  "C:\Users\bohar\OneDrive\Documents\Noodle Analytics\docs\user guide.md"       
+- Architecture diagram      → "C:\Users\bohar\OneDrive\Documents\Noodle Analytics\docs\architecture-diagram.png"
+- Data Dictionary    → "C:\Users\bohar\OneDrive\Documents\Noodle Analytics\docs\Data Dictionary.pdf"
+- demo Presentation -->"C:\Users\bohar\OneDrive\Documents\Noodle Analytics\docs\demo-presentation.pdf"
+- final checklist--> "C:\Users\bohar\OneDrive\Documents\Noodle Analytics\docs\final checklist.md"   
 
 ## Demo
 
