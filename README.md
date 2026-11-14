@@ -83,8 +83,8 @@ docs/data-dictionary.xlsx
 
 ## Demo
 
-Demo video URL: "C:\Users\bohar\Downloads\task 9\demo-video.mp4.mp4"
-Presentation:"C:\Users\bohar\Downloads\task 9\demo-presentation.pdf"
+Demo video URL: https://youtu.be/9Vf6N2UH1UA
+
 
 #Github repository
 Repository:
@@ -93,5 +93,3 @@ Repository:
 
 Name: Ravneet Kaur
 ravn748@gmail.com 
-[User Guide]("C:\Users\bohar\Downloads\task 9\user-guide.md")
-[Presentation slides]("C:\Users\bohar\Downloads\task 9\demo-presentation.pdf")
