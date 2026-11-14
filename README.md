@@ -81,10 +81,10 @@ Data dictionary
 ## Documentation  
 
 - Technical Runbook  →https://github.com/RavneetKau-r/Noodles-Crypto-Analytics-/blob/f279cab0f69e20a7d22299514e738d685a4f1be1/Noodle%20Analytics/docs/technical%20runbook.md
-- User Guide         →  "C:\Users\bohar\OneDrive\Documents\Noodle Analytics\docs\user guide.md"       
-- Architecture diagram      → "C:\Users\bohar\OneDrive\Documents\Noodle Analytics\docs\architecture-diagram.png"
-- Data Dictionary    → "C:\Users\bohar\OneDrive\Documents\Noodle Analytics\docs\Data Dictionary.pdf"
-- demo Presentation -->"C:\Users\bohar\OneDrive\Documents\Noodle Analytics\docs\demo-presentation.pdf"
+- User Guide         →  https://github.com/RavneetKau-r/Noodles-Crypto-Analytics-/blob/82654843d42dbd3fffb2ad77011dba1ca5631ceb/Noodle%20Analytics/docs/user%20guide.md     
+- Architecture diagram      →https://lucid.app/lucidchart/e21087d9-b503-432d-803b-fd4165062fbb/edit?viewport_loc=-96%2C-145%2C976%2C507%2C0_0&invitationId=inv_0e0541d1-568a-4cd0-9880-eecfb8c6f7da
+- Data Dictionary    → https://1drv.ms/x/c/ca96d0cd9d062930/IQDTm3BcnPNUQonHhL5iUw1uAQFkYCY8DrJya322I4bjmZc?e=nDciYY
+- demo Presentation -->https://1drv.ms/p/c/ca96d0cd9d062930/IQBhRofICB2ERIV-d3fUb7WLARCAu4qNoemgkndYCm5FCdI?e=QIUz6g
 - final checklist--> "C:\Users\bohar\OneDrive\Documents\Noodle Analytics\docs\final checklist.md"   
 
 ## Demo
