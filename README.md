@@ -61,8 +61,7 @@ noodles-analytics/
 Dimensions: DimCurrency, DimDate, DimPlatform
 Facts: FactSocialEngagement
 
-Data dictionary 
-"C:\Users\bohar\OneDrive\Documents\Noodle Analytics\docs\Data Dictionary.pdf"
+Data dictionary :https://1drv.ms/x/c/ca96d0cd9d062930/IQDTm3BcnPNUQonHhL5iUw1uAQFkYCY8DrJya322I4bjmZc?e=nDciYY
 
 ## Key Insights
 
@@ -89,7 +88,8 @@ Data dictionary
 
 ## Demo
 
-Demo video URL: https://youtu.be/9Vf6N2UH1UA
+Demo video URL: 
+https://youtu.be/9Vf6N2UH1UA?si=XiuQ_VZ3LLm1YmXH
 
 
 #Github repository
