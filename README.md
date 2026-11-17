@@ -92,7 +92,7 @@ Demo video URL:
 https://youtu.be/9Vf6N2UH1UA?si=XiuQ_VZ3LLm1YmXH
 
 
-#Github repository
+#Github repository :https://github.com/RavneetKau-r
 Repository:https://github.com/RavneetKau-r/Noodles-Crypto-Analytics-
 
 ## Contact
