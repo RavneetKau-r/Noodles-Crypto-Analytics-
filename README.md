@@ -32,8 +32,8 @@ Key Features:
 ## Architecture
 
 json Files → Python ETL → MySQL (noodles_dw) → Power BI Dashboards
-Architecture Diagram:"C:\Users\bohar\OneDrive\Documents\Noodle Analytics\docs\architecture-diagram.png"
-
+Architecture Diagram:
+https://lucid.app/lucidchart/e21087d9-b503-432d-803b-fd4165062fbb/edit?viewport_loc=-96%2C-145%2C976%2C507%2C0_0&invitationId=inv_0e0541d1-568a-4cd0-9880-eecfb8c6f7da
 
 ## Technology Stack
 
