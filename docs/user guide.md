@@ -1,68 +1,73 @@
-User Guide: Noodles Crypto Dashboards
-## Overview This guide explains how to access and use the Noodles currency analytics dashboards for market insights and decision-making. 
-Main Features:
-Executive market overview
-Cryptocurrency Top performers Analysis
-Currency Performance Comparisons
-Trading Volume Analysis
-Interactive filters and Slicers
-## Accessing Dashboards
-**Option 1: Power BI Service **
-1. Visit: https://app.powerbi.com 
-2. Sign in with your organizational account 
-3. Navigate to "Noodles Analytics" workspace 
-4. Open "Executive Dashboard" report 
-**Option 2: Power BI Desktop**
-1. Download .pbix file from shared folder 
-2. Open with Power BI Desktop 
-3. Click "Refresh" to load latest data 
-## Available Dashboards### 
-1. Executive Dashboard
-**Purpose**: High-level market overview for executives 
-**Key Metrics**: - Total Market Capitalization 
-- Average Price Across Currencies
- - Trading Volume (24h) 
-- Number of Active Currencies
- **How to Use**: - Use date slicer (top-right) to select time period 
-- Click any visual to filter others (cross-filtering) 
-- Hover over data points for detailed tooltips 
-### 2. Top Performers Report
-**Purpose**: Identify market winners and losers 
-**Features**: - Top Gainers table (sorted by % change)
- - Top Losers table 
-- Volume leaders
- - Price trend indicators 
-**How to Use**: - Adjust "Top N" parameter (default: 10) 
-- Right-click any currency for drill-through details 
-- Export data using "..." menu
- ### 3. Currency Deep Dive
-**Purpose**: Detailed analysis of individual currencies 
-**Features**: - Price trends with moving averages 
-- Volume analysis 
-- Social engagement metrics 
-- Historical comparisons
- **How to Use**: - Access via drill-through from other reports -
- Or use currency selector dropdown - 
-Compare multiple currencies using Ctrl+Click
- ## Common Tasks### Filter by Date Range1. Locate date slicer (usually top-right) 
-2. Click calendar icon
- 3. Select start and end dates 
-4. Or use relative date: "Last 30 days", "YTD" 
-### Export Data1. Click "..." menu on any visual 
-2. Select "Export data"
- 3. Choose format: .xlsx or .json 4. Open in Excel for further analysis
- ### Print/Export Report1. File → Export → PDF 2. Select pages to export 3. Adjust page size if needed 4. Save to desired location
- ### Share with Colleagues1. Click "Share" button (top-right) 2. Enter email addresses 3. Set permissions (can view/can edit) 4. Add message and send 
-## Understanding Key Metrics | Metric | What It Means | How to Use | | -------------- | ------------------------ | ------------------ | | Market Cap | Total value of all coins | Gauge market size | | 24h Volume | Trading activity | Identify liquidity | | Price Change % | Price movement | Spot trends | | Moving Average | Smoothed trend line | Identify direction | | Volatility | Price stability | Assess risk |
- ## Tips & Best Practices 
-✅ **DO**: - Refresh data before important meetings - Use filters to focus on relevant data - Export data for offline analysis - Share insights with team 
-❌ **DON'T**: - Make decisions on stale data (check refresh time) - Ignore data quality warnings - Share sensitive reports externally
- ## FAQ**Q: How often is data updated?**
- A: Daily at 6:00 AM. Check "Last Refresh" timestamp in report header. 
-**Q: Why do I see different numbers than yesterday?** 
-A: Data is refreshed daily. Historical data may also be revised. 
-**Q: Can I create my own reports?** 
-A: Yes, if you have Power BI Pro license. Contact IT for access. 
-**Q: Who do I contact for questions?**
- A: Email data-analytics@noodles.com or Slack #data-help 
-## Support For technical issues or questions: - Email: ravn748@gmail.com - Slack: #data-help 
+Noodles Crypto Analytics Platform
+
+User Guide
+
+Project: Noodles Crypto Analytics
+Technology: Python, MySQL and Power BI
+
+1. Introduction
+
+The Noodles Crypto Analytics Platform is a data analytics solution designed to process, transform and analyse cryptocurrency and currency market data.
+
+The platform uses Python for ETL processing, MySQL for data storage and Power BI for interactive visualisation.
+
+2. Project Objectives
+
+- Automate data processing and reporting.
+- Store structured data in a MySQL Data Warehouse.
+- Improve data accuracy and consistency.
+- Provide interactive dashboards.
+- Help users understand market trends and performance.
+
+3. System Requirements
+
+- Windows 10/11
+- Python 3.x
+- MySQL Server
+- MySQL Workbench
+- Jupyter Notebook or JupyterLab
+- Microsoft Power BI Desktop
+
+4. Platform Overview
+
+The platform follows this workflow:
+
+1. Source data is collected.
+2. Python processes and cleans the data.
+3. Cleaned data is loaded into MySQL staging tables.
+4. Data is transformed into the Data Warehouse.
+5. Power BI connects to the warehouse.
+6. Users explore dashboards and reports.
+
+5. How to Use the Dashboard
+
+1. Open the Power BI report.
+2. Wait for the dashboard to load.
+3. Review the available charts and key performance indicators.
+4. Use filters and slicers to select the required information.
+5. Compare trends across available currencies and time periods.
+6. Export reports if required.
+
+6. Understanding Dashboard Results
+
+Users can explore:
+
+- Currency performance.
+- Market trends.
+- Historical data.
+- Comparative analytics.
+- Key performance indicators.
+
+The available metrics depend on the implemented Power BI reports.
+
+7. Troubleshooting
+
+Problem| Suggested Solution
+Dashboard not loading| Check the database connection.
+Missing data| Verify that the ETL process completed successfully.
+Incorrect values| Check source data and transformation logic.
+Database connection error| Verify MySQL Server is running.
+Filters not working| Refresh the Power BI report.
+
+8. Support
+email: ravn748@gmail.com
