@@ -88,8 +88,7 @@ Data dictionary :https://1drv.ms/x/c/ca96d0cd9d062930/IQDTm3BcnPNUQonHhL5iUw1uAQ
 
 ## Demo
 
-Demo video URL: 
-https://youtu.be/9Vf6N2UH1UA?si=XiuQ_VZ3LLm1YmXH
+Demo video URL: https://youtu.be/9Vf6N2UH1UA
 
 
 #Github repository :https://github.com/RavneetKau-r
