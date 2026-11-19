@@ -80,7 +80,7 @@ Data dictionary :https://1drv.ms/x/c/ca96d0cd9d062930/IQDTm3BcnPNUQonHhL5iUw1uAQ
 ## Documentation  
 
 - Technical Runbook  →https://github.com/RavneetKau-r/Noodles-Crypto-Analytics-/blob/76e738cc8d2784b7099ba30284d58b6cf0a1630e/docs/technical%20runbook.md
-- User Guide         →  https://github.com/RavneetKau-r/Noodles-Crypto-Analytics-/blob/82654843d42dbd3fffb2ad77011dba1ca5631ceb/Noodle%20Analytics/docs/user%20guide.md     
+- User Guide         -->https://github.com/RavneetKau-r/Noodles-Crypto-Analytics-/blob/3432a0221c90e0d5537d02d3389d34ce15d45a2d/docs/user%20guide.md     
 - Architecture diagram      →https://lucid.app/lucidchart/e21087d9-b503-432d-803b-fd4165062fbb/edit?viewport_loc=-96%2C-145%2C976%2C507%2C0_0&invitationId=inv_0e0541d1-568a-4cd0-9880-eecfb8c6f7da
 - Data Dictionary    → https://1drv.ms/x/c/ca96d0cd9d062930/IQDTm3BcnPNUQonHhL5iUw1uAQFkYCY8DrJya322I4bjmZc?e=nDciYY
 - demo Presentation -->https://1drv.ms/p/c/ca96d0cd9d062930/IQBhRofICB2ERIV-d3fUb7WLARCAu4qNoemgkndYCm5FCdI?e=QIUz6g
